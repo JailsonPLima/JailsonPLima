@@ -1,4 +1,4 @@
-<h2 align="center">Hi There<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jailson Lima</h2>
+<h2 align="center">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jailson Lima</h2>
 <h3 align="center">A Front-End Developer</h3>
 
 #### 🔗📚 I Currently Study:
@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="30" />
 </p>
 
-#### 🔗📫 How to reach me
+#### 🔗📫 How to reach me?
 <p>
 <a href="https://www.instagram.com/jailsonp.lima">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
