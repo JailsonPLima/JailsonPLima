@@ -3,7 +3,6 @@
 
 #### 🔗📚 I Currently Study:
   - **HTML5, CSS3, JavaScript** 💻
-  - **Design UX** 🎨
 
 #### 🔗👨‍💻 Main Languages and Tools:  
 <p>
