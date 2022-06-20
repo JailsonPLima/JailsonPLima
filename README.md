@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Jailson Lima</h2>
-<h3 align="center">A Front-End Developer</h3>
+<h3 align="center">Front-End Developer</h3>
 
 #### 🔗📚 I Currently Study:
   - **HTML5, CSS3, JavaScript** 💻
@@ -21,10 +21,10 @@
 <a href="https://www.instagram.com/jailsonp.lima">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
-&nbsp&nbsp
+<!-- &nbsp&nbsp
 <a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+</a> -->
 </p>
 
 <!--
