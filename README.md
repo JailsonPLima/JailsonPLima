@@ -1,4 +1,4 @@
-<h2 align="center">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jailson Lima</h2>
+<h2 align="center">Hi, I'm Jailson Lima</h2>
 <h3 align="center">A Front-End Developer</h3>
 
 #### 🔗📚 I Currently Study:
