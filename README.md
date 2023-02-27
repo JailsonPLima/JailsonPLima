@@ -1,31 +1,21 @@
-<h2 align="center">Hi, I'm Jailson Lima</h2>
-<h3 align="center">Front-End Developer</h3>
+## Olá, eu me chamo Jailson 👋
+### Bem-vindo(a) ao meu perfil no Github.
 
-#### 🔗📚 I Currently Study:
-  - **HTML5, CSS3, JavaScript** 💻
+### 📖 Sobre mim: 
+Sou um **desenvolvedor web**. Inicialmente me foquei em aprender mais a respeito de **frontend**, então aprendi muito sobre **React** e como seu funciona seu ecossistema.  
+Atualmente venho estudando sobre **backend** para me tornar um desenvolvedor **fullstack** e escolhi **Java** por ser uma linguagem conhecida como "desafiadora" pela a comunidade.  
+No momento estou trabalhando como desenvolvedor **frontend** em uma **startup** na qual venho acumulando cerca de **1 ano** de experiência com o ecossistema **React**.
 
-#### 🔗👨‍💻 Main Languages and Tools:  
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="30" />&nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="30" />&nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" />&nbsp&nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" />&nbsp&nbsp
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="30" />&nbsp&nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="30" />&nbsp&nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="30" />
-</p>
+### 📚 O que estou estudando atualmente: 
+![Minhas habilidades](https://skillicons.dev/icons?i=java,spring,postgres,mongodb&theme=dark)
 
-#### 🔗📫 How to reach me?
-<p>
-<a href="https://www.instagram.com/jailsonp.lima">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
-<!-- &nbsp&nbsp
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a> -->
-</p>
+### 👨‍💻 Principais tecnologias e ferramentas: 
+![Minhas habilidades](https://skillicons.dev/icons?i=html,css,javascript,typescript,sass&theme=dark)&nbsp;
+![Minhas habilidades](https://skillicons.dev/icons?i=react,emotion,redux,next,bash&theme=dark)&nbsp;
+![Minhas habilidades](https://skillicons.dev/icons?i=vscode,vite,vim,git&theme=dark)
+
+### ✉️ Você pode entrar em contato comigo por:
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jailsonp.lima03@gmail.com)&nbsp;&nbsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailsonplima/)
 
 <!--
 **JailsonPLima/JailsonPLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
