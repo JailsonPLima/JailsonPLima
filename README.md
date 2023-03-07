@@ -2,7 +2,7 @@
 ### Bem-vindo(a) ao meu perfil no Github.
 
 ### 📖 Sobre mim: 
-Sou um **desenvolvedor web**. Inicialmente me foquei em aprender mais a respeito de **frontend**, então aprendi muito sobre **React** e como seu funciona seu ecossistema.  
+Sou um **desenvolvedor web**. Inicialmente me foquei em aprender mais a respeito de **frontend**, então aprendi muito sobre **React** e como funciona seu ecossistema.  
 Atualmente venho estudando sobre **backend** para me tornar um desenvolvedor **fullstack** e escolhi **Java** por ser uma linguagem conhecida como "desafiadora" pela a comunidade.  
 No momento estou trabalhando como desenvolvedor **frontend** em uma **startup** na qual venho acumulando cerca de **1 ano** de experiência com o ecossistema **React**.
 
