@@ -2,9 +2,8 @@
 ### Bem-vindo(a) ao meu perfil no Github.
 
 ### 📖 Sobre mim: 
-Sou um **desenvolvedor web**. Inicialmente me foquei em aprender mais a respeito de **frontend**, então aprendi muito sobre **React** e como funciona seu ecossistema.  
-Atualmente venho estudando sobre **backend** para me tornar um desenvolvedor **fullstack** e escolhi **Java** por ser uma linguagem conhecida como "desafiadora" pela a comunidade.  
-No momento estou trabalhando como desenvolvedor **frontend** em uma **startup** na qual venho acumulando cerca de **1 ano** de experiência com o ecossistema **React**.
+Sou um **desenvolvedor web** com cerca de **1 ano** de experiência. Inicialmente me foquei em aprender mais a respeito de **frontend**, então aprendi muito sobre **React** e como funciona seu ecossistema.  
+Atualmente venho estudando sobre **backend** para me tornar um desenvolvedor **fullstack** e escolhi **Java** por ser uma linguagem conhecida como "desafiadora" pela a comunidade.
 
 ### 📚 O que estou estudando atualmente: 
 ![Minhas habilidades](https://skillicons.dev/icons?i=java,spring,postgres,mongodb&theme=dark)
