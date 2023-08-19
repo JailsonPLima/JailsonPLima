@@ -3,10 +3,10 @@
 
 ### 📖 Sobre mim: 
 Sou um **desenvolvedor web** com cerca de **1 ano** de experiência. Inicialmente me foquei em aprender mais a respeito de **frontend**, então aprendi muito sobre **React** e como funciona seu ecossistema.  
-Atualmente venho estudando sobre **backend** para me tornar um desenvolvedor **fullstack** e escolhi **Java** por ser uma linguagem conhecida como "desafiadora" pela a comunidade.
+Atualmente venho estudando sobre **backend** para me tornar um desenvolvedor **fullstack** e escolhi **Node** por ser uma tecnologia que complementa a stack **JavaScript**.
 
 ### 📚 O que estou estudando atualmente: 
-![Minhas habilidades](https://skillicons.dev/icons?i=java,spring,postgres,mongodb&theme=dark)
+![Estudando no momento](https://skillicons.dev/icons?i=nodejs,express,sequelize,postgres,mongodb&theme=dark)
 
 ### 👨‍💻 Principais tecnologias e ferramentas: 
 ![Minhas habilidades](https://skillicons.dev/icons?i=html,css,javascript,typescript,sass&theme=dark)&nbsp;
